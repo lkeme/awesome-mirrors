@@ -1,1 +1,6 @@
-# awesome-mirrors
+# Awesome Mirrors
+
+
+| 序号 | 目标                  | 备注        |
+|------|-----------------------|-------------|
+| 1    | [Golang](./Golang.md) | Go 模块代理 |
