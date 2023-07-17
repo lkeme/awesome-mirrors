@@ -34,12 +34,13 @@ pip install -i https://pypi.doubanio.com/simple/ --upgrade pip
 
 ## 镜像列表
 
-| 序号 | 网站                                             | 标签 | 时间         | 备注              |
-|----|------------------------------------------------|----|------------|-----------------|
-| 1  | https://pypi.doubanio.com/simple/              | 😊 | 2023-07-16 | 豆瓣(https/http)  |
-| 2  | https://mirrors.aliyun.com/pypi/simple/        | 😊 | 2023-07-16 | 阿里云(https/http) |
-| 3  | https://pypi.tuna.tsinghua.edu.cn/simple/      | 😊 | 2023-07-16 | 清华大学            |
-| 4  | https://mirrors.bfsu.edu.cn/pypi/web/simple/   | 😊 | 2023-07-16 | 北京外国语大学         |
-| 5  | https://pypi.mirrors.ustc.edu.cn/simple/       | 😊 | 2023-07-16 | 中国科学技术大学        |
-| 6  | https://mirrors.cloud.tencent.com/pypi/simple/ | 😊 | 2023-07-16 | 腾讯云(https/http) |
-| 7  | https://pypi.org/simple/                       | 😊 | 2023-07-16 | 官方              |
+| 序号 | 网站                                                      | 标签 | 时间         | 备注              |
+|----|---------------------------------------------------------|----|------------|-----------------|
+| 1  | https://pypi.doubanio.com/simple/                       | 😊 | 2023-07-16 | 豆瓣(https/http)  |
+| 2  | https://mirrors.aliyun.com/pypi/simple/                 | 😊 | 2023-07-16 | 阿里云(https/http) |
+| 3  | https://pypi.tuna.tsinghua.edu.cn/simple/               | 😊 | 2023-07-16 | 清华大学            |
+| 4  | https://mirrors.bfsu.edu.cn/pypi/web/simple/            | 😊 | 2023-07-16 | 北京外国语大学         |
+| 5  | https://pypi.mirrors.ustc.edu.cn/simple/                | 😊 | 2023-07-16 | 中国科学技术大学        |
+| 6  | https://mirrors.cloud.tencent.com/pypi/simple/          | 😊 | 2023-07-16 | 腾讯云(https/http) |
+| 7  | https://pypi.org/simple/                                | 😊 | 2023-07-16 | 官方              |
+| 8  | https://mirrors.huaweicloud.com/repository/pypi/simple/ | 😊 | 2023-07-16 | 华为云             |
